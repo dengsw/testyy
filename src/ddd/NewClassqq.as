@@ -9,7 +9,7 @@ package ddd
 		
 		public function NewClassqq() 
 		{
-			
+			trace(”fdsafdsafd“);
 		}
 		
 	}
