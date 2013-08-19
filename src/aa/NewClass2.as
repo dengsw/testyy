@@ -9,7 +9,7 @@ package aa
 		
 		public function NewClass2() 
 		{
-			
+			trace("you  tu ")
 		}
 		
 	}
