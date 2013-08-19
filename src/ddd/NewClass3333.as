@@ -4,10 +4,10 @@ package ddd
 	 * ...
 	 * @author dengsw
 	 */
-	public class NewClassqq 
+	public class NewClass3333 
 	{
 		
-		public function NewClassqq() 
+		public function NewClass3333() 
 		{
 			
 		}
